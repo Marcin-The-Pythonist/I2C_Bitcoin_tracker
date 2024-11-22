@@ -1,6 +1,5 @@
 # I2C_Bitcoin_tracker
 Bitcoin tracker using Raspberry Pico W and I2C 16x2 LCD.
-<hr>
 
 # What are you going to need
 <ul>
@@ -8,7 +7,6 @@ Bitcoin tracker using Raspberry Pico W and I2C 16x2 LCD.
   <li>4 jumper wires</li>
   <li>16x2 I2C LCD</li>
 </ul>
-<hr>
 
 # How do you connect wires
 <ul>
