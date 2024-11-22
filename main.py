@@ -25,8 +25,8 @@ for i in range(4):
         sleep(1)    
 lcd.move_to(0,0)
 ### Connecting to the internet
-ssid = "ZTE_MC888_4117B5"
-password = "5C6FH66647"
+ssid = ""
+password = ""
 
 while True:
         wlan = network.WLAN(network.STA_IF)
