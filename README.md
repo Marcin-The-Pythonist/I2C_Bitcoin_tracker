@@ -1,5 +1,7 @@
 # I2C_Bitcoin_tracker
 Bitcoin tracker using Raspberry Pico W and I2C 16x2 LCD.
+![ezgif-6-8564c26f24](https://github.com/user-attachments/assets/10b877a3-b5d0-49ce-9bf2-732ab315cae4)
+
 
 # What are you going to need
 <ul>
