@@ -10,9 +10,9 @@ Bitcoin tracker using Raspberry Pico W and I2C 16x2 LCD.
 
 # How do you connect wires
 <ul>
-  <li>GP0 goes to SDA(1st pin)</li>
-  <li>GP1 goes to SCL(2nd pin)</li>
-  <li>VCC goes to VBUS 5V(40th pin)</li>
+  <li>SDA goes to GP0(1st pin)</li>
+  <li>SCL goes to GP1(2nd pin)</li>
+  <li>VBUS 5V goes to VCC(40th pin)</li>
   <li>And ground(i.e. 8th pin)</li>
 </ul>
 
