@@ -16,3 +16,5 @@ Bitcoin tracker using Raspberry Pico W and I2C 16x2 LCD.
   <li>And ground(i.e. 8th pin)</li>
 </ul>
 
+### Before launching the program make sure to enter your SSID and the password
+
