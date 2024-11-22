@@ -22,7 +22,7 @@ throbber = ['Loading.  ','Loading..','Loading...']
 for i in range(4):
     for j in throbber:
         overwrite(j,0,0)
-        sleep(1)    
+        sleep(0.5)    
 lcd.move_to(0,0)
 ### Connecting to the internet
 ssid = "" # Put router's name here
