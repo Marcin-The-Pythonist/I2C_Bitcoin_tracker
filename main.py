@@ -25,8 +25,8 @@ for i in range(4):
         sleep(1)    
 lcd.move_to(0,0)
 ### Connecting to the internet
-ssid = ""
-password = ""
+ssid = "" # Put router's name here
+password = "" # Put router's password here
 
 while True:
         wlan = network.WLAN(network.STA_IF)
