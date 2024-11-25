@@ -19,7 +19,7 @@ Bitcoin tracker using Raspberry Pico W and I2C 16x2 LCD.
   <li>SDA goes to GP0(1st pin)</li>
   <li>SCL goes to GP1(2nd pin)</li>
   <li>VBUS 5V goes to VCC(40th pin)</li>
-  <li>And ground(i.e. 8th pin)</li>
+  <li>And ground(e.g. 8th pin)</li>
 </ul>
 
 ### Before launching the program make sure to enter your SSID and the password in the main.py file
